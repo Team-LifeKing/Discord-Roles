@@ -11,7 +11,6 @@ __***`Main Roles`***__ :
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 | @🤴 〢𒆜 King                                   |     *Owner of this server @LifeKing Gamerz YT#9770 .*                                                                                                                                                                         |
-
 | @👸 〢𒆜 Queen                                  |    *Co-Owner of this server.*                                                                                                                                                                          |
 | @🔰〢𒆜 WR ツ Clan Master (WESTROSS)(BGMI)       |     *My Call of duty Mobile Clan Master @LifeKing Gamerz YT#9770 .*                                                                                                                                                                          |
 | @🔰〢𒆜 WR ツ Clan Vice-Master (WESTROSS)(BGMI)  |     *My Call of duty Mobile Clan Vice-Master .*                                                                                                                                                                          |
@@ -29,6 +28,7 @@ __***`Main Roles`***__ :
 | @👨‍🚀〢𒆜 Streaming Mods                           |    *All Streaming Mods of YouTube ,Twitch, Facebook Gaming Channel.*                                                                                                                                                                          |
 | @🎓〢𒆜 Youtube Members                          |    *All Members of YouTube Channel.*                                                                                                                                                                          |
 | @👫 〢𒆜 Verified Members                        |    *Given to all members who verify themselves at #𒋨・verification .*                                                                                                                                                                          |
+
 <h3>Special Roles</h3>
 
 | Name              | Description                                                                                                                                                                                                     |
