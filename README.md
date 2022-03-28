@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.imgur.com/SCUzUr2.jpg" width="128px" style="max-width:100%;">
-    <h1>Discord Roles - CLAN WESTROSS</h1>
+    <h1>Discord Roles - LifeKing Gamerz</h1>
 </div>
 
 <h3>Staff Roles</h3>
