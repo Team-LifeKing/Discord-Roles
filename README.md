@@ -5,24 +5,26 @@
 
 <h3>Staff Roles</h3>
 
-**Role -1**  |  @&782123623631814686  - *Owner of this server <@!753073310539055148> .*
-**Role -2**  |  <@&782651077077762068> - *Co-Owner of this server.*
-**Role -3** |  <@&787566516840562698>  - *My Call of duty Mobile Clan Master <@!753073310539055148> .*
-**Role -4** |  <@&787566500130979841>  - *My Call of duty Mobile Clan Vice-Master .*
-**Role -5** |  <@&786481625172672544>  - *My Clan Members & Friends.*
-**Role -6** |  <@&795502080873594890>  - *All Official Bots.*
-**Role -7** |  <@&795502628460953640>  - *All Partners Bots.*
-**Role -8** |  <@&782474578756239371>  - *All Games Bots.*
-**Role -9** |  <@&785537641324085288> - *All Music Bots.*
-**Role -10** |  <@&786258241738375168> - *Members who manage this server.*
-**Role -11** |  <@&783383845826199555> -  *Main mods of the server. Always available in <#783666273699102730> for help.*
-**Role -12** |  <@&783383566611644426> - *The Server runs so good just because of them. They are none other than our loyal staffs.*
-**Role -13** |  <@&793889120774127636>  - *All helpers for our server.*
-**Role -14** |  <@&783383886888435714> - *All members of well known teams and international e Sports players are liable to this role.*
-**Role -15** |  <@&783383895554916365> - *Nitro subscribers [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting) the Discord server. This role grants a colored username separately in the online list and the ability to stream video, change nickname, react to messages, use external emojis, attach files, send links, and use [priority speaker](https://support.discord.com/hc/en-us/articles/360011876531-Setting-up-Priority-Speaker).*
-**Role -16** |  <@&786190702156709908> - *All Streaming Mods of YouTube ,Twitch, Facebook Gaming Channel.*
-**Role -17** |  <@&786190693952520202> - *All Members of YouTube Channel.*
-**Role -18** |  <@&782474136215748628> - *Given to all members who verify themselves at <#788347228870934529> .*                                                                 |
+__***`Main Roles`***__ :
+
+**Role -1**  |  @🤴 〢𒆜 King  - *Owner of this server @LifeKing Gamerz YT#9770 .*
+**Role -2**  |  @👸 〢𒆜 Queen - *Co-Owner of this server.*
+**Role -3** |  @🔰〢𒆜 WR ツ Clan Master (WESTROSS)(BGMI)  - *My Call of duty Mobile Clan Master @LifeKing Gamerz YT#9770 .*
+**Role -4** |  @🔰〢𒆜 WR ツ Clan Vice-Master (WESTROSS)(BGMI)  - *My Call of duty Mobile Clan Vice-Master .*
+**Role -5** |  @🔰〢𒆜 WR ツ Clan Members (WESTROSS)(BGMI)  - *My Clan Members & Friends.*
+**Role -6** |  @🤖 〢𒆜 OFFICIAL BOTS  - *All Official Bots.*
+**Role -7** |  @🤖🤝 〢𒆜 PARTNER BOTS  - *All Partners Bots.*
+**Role -8** |  @🤖🎮 〢𒆜 GAME BOTS  - *All Games Bots.*
+**Role -9** |  @🤖🎶 〢𒆜 Music Bots - *All Music Bots.*
+**Role -10** |  @🕵️‍♂️〢𒆜 Management - *Members who manage this server.*
+**Role -11** |  @👨‍💻 〢𒆜 Moderators -  *Main mods of the server. Always available in #𒋨・mod-support🔩 for help.*
+**Role -12** |  @👲 〢𒆜 Staffs - *The Server runs so good just because of them. They are none other than our loyal staffs.*
+**Role -13** |  @🤝 〢𒆜 Partners  - *All helpers for our server.*
+**Role -14** |  @🤵 〢𒆜 VIP Members - *All members of well known teams and international e Sports players are liable to this role.*
+**Role -15** |  @💎 〢𒆜 Nitro Boosters - *Nitro subscribers [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting) the Discord server. This role grants a colored username separately in the online list and the ability to stream video, change nickname, react to messages, use external emojis, attach files, send links, and use [priority speaker](https://support.discord.com/hc/en-us/articles/360011876531-Setting-up-Priority-Speaker).*
+**Role -16** |  @👨‍🚀〢𒆜 Streaming Mods - *All Streaming Mods of YouTube ,Twitch, Facebook Gaming Channel.*
+**Role -17** |  @🎓〢𒆜 Youtube Members - *All Members of YouTube Channel.*
+**Role -18** |  @👫 〢𒆜 Verified Members - *Given to all members who verify themselves at #𒋨・verification .*
 
 <h3>Special Roles</h3>
 
