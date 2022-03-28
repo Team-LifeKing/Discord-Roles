@@ -5,7 +5,7 @@
 
 <h3>Staff Roles</h3>
 
-**Role -1**  |  <@&782123623631814686>  - *Owner of this server <@!753073310539055148> .*
+**Role -1**  |  @&782123623631814686  - *Owner of this server <@!753073310539055148> .*
 **Role -2**  |  <@&782651077077762068> - *Co-Owner of this server.*
 **Role -3** |  <@&787566516840562698>  - *My Call of duty Mobile Clan Master <@!753073310539055148> .*
 **Role -4** |  <@&787566500130979841>  - *My Call of duty Mobile Clan Vice-Master .*
