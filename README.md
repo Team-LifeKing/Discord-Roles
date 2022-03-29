@@ -4,7 +4,8 @@
 </div>
 
 <h3>Main Roles<h3>
-
+    
+    
     
 | Name                     | Description                                                                                                      |
 |--------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -28,6 +29,7 @@
 | 👫 〢𒆜 Verified Members  |    Given to all members who verify themselves at #𒋨・verification .                                         |
 
 
+    
 <h3>Special Roles</h3>
 
 | Name              | Description                                                                                                                                                                                                     |
