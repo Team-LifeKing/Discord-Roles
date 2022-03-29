@@ -51,7 +51,17 @@
 
 <h3>Ping Roles & Other Roles</h3>
 
-
+| Name                     | Description                                                     |
+|--------------------------|------------------------------------------------------------------|
+ |  @📢 〢𒆜 Announcement Ping  |  *You will be mention for all server announcement #𒋨・announcement .* |
+ |  @🎥 〢𒆜 YT Content Ping  | *You will be mention for youtube content #𒋨・content-upload and #𒋨・content-upload.* |
+ |  @🦜 〢𒆜 Tweet Ping   | *You will be mention for all tweets #𒋨・tweets  .* |
+ |  @📺〢𒆜 Twitch Ping  | *You will be mention for all twitch live streaming #𒋨・twitch-live  .* |
+ |  @💻〢𒆜 Omlet Arcade Ping  | *You will be mention for all omlet arcade live streaming #𒋨・omlet-live  .* |
+ |  @🔧〢𒆜 Mod/Staff Requirement Ping  | *You will be mention for all server mod  or staff requirements #𒋨・mod-requirements  .* |
+ |  @🎭〢𒆜 Facebook Gaming Ping  | *You will be mention for all facebook gaming live streaming #𒋨・facebook-live  .* |
+ |  @🎉 〢𒆜 Giveaway Ping   | *You will be mention for all Giveaways  #𒋨・🎉giveaways¹  & #𒋨・🎉giveaways²   .* |
+ |  @🎊 〢𒆜 Events Ping   | *You will be mention for all Events  #𒋨・🎊events¹ , #𒋨・🎊events² & #𒋨・🎊events³    .* |
 
 <h3>Level Roles</h3>
 
