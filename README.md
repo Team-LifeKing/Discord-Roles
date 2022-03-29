@@ -53,16 +53,28 @@
 
 | Name                     | Description                                                     |
 |--------------------------|------------------------------------------------------------------|
- |  @📢 〢𒆜 Announcement Ping  |  *You will be mention for all server announcement #𒋨・announcement .* |
- |  @🎥 〢𒆜 YT Content Ping  | *You will be mention for youtube content #𒋨・content-upload and #𒋨・content-upload.* |
- |  @🦜 〢𒆜 Tweet Ping   | *You will be mention for all tweets #𒋨・tweets  .* |
- |  @📺〢𒆜 Twitch Ping  | *You will be mention for all twitch live streaming #𒋨・twitch-live  .* |
- |  @💻〢𒆜 Omlet Arcade Ping  | *You will be mention for all omlet arcade live streaming #𒋨・omlet-live  .* |
- |  @🔧〢𒆜 Mod/Staff Requirement Ping  | *You will be mention for all server mod  or staff requirements #𒋨・mod-requirements  .* |
- |  @🎭〢𒆜 Facebook Gaming Ping  | *You will be mention for all facebook gaming live streaming #𒋨・facebook-live  .* |
- |  @🎉 〢𒆜 Giveaway Ping   | *You will be mention for all Giveaways  #𒋨・🎉giveaways¹  & #𒋨・🎉giveaways²   .* |
- |  @🎊 〢𒆜 Events Ping   | *You will be mention for all Events  #𒋨・🎊events¹ , #𒋨・🎊events² & #𒋨・🎊events³    .* |
-
+ |  📢 〢𒆜 Announcement Ping  |  *You will be mention for all server announcement #𒋨・announcement .* |
+ |  🎥 〢𒆜 YT Content Ping  | *You will be mention for youtube content #𒋨・content-upload and #𒋨・content-upload.* |
+ |  🦜 〢𒆜 Tweet Ping   | *You will be mention for all tweets #𒋨・tweets  .* |
+ |  📺〢𒆜 Twitch Ping  | *You will be mention for all twitch live streaming #𒋨・twitch-live  .* |
+ |  💻〢𒆜 Omlet Arcade Ping  | *You will be mention for all omlet arcade live streaming #𒋨・omlet-live  .* |
+ |  🔧〢𒆜 Mod/Staff Requirement Ping  | *You will be mention for all server mod  or staff requirements #𒋨・mod-requirements  .* |
+ |  🎭〢𒆜 Facebook Gaming Ping  | *You will be mention for all facebook gaming live streaming #𒋨・facebook-live  .* |
+ |  🎉 〢𒆜 Giveaway Ping   | *You will be mention for all Giveaways  #𒋨・🎉giveaways¹  & #𒋨・🎉giveaways²   .* |
+ |  🎊 〢𒆜 Events Ping   | *You will be mention for all Events  #𒋨・🎊events¹ , #𒋨・🎊events² & #𒋨・🎊events³    .* |
+ |  👦〢𒆜 BOY   | *You will identified as a `BOY`.* |
+ |  👧〢𒆜 GIRL    | *You will identified as a `GIRL`.* |
+ |  🧒〢𒆜 MATURE(18+)   | *You will identified as a `MATURE or ABOVE 18`.* |
+ |  👶〢𒆜 UNMATURE(BELOW18)   | *You will identified as a `UNMATURE or BELOW 18`.* |
+ |  📱〢𒆜 MOBILE GAMER    | *You will identified as a `MOBILE GAMER`.* |
+ |  💻〢𒆜 PC GAMER    | *You will identified as a `PC GAMER`.* | 
+ |  🎤〢𒆜 Singer  | *You will identified as a `Singer`.* |
+ |  🖼〢𒆜 Painter   | *You will identified as a `Painter`.* | 
+ |  📚〢𒆜 StoryTeller   | *You will identified as a `StoryTeller`.* |
+ |  🎨〢𒆜 Other Talents   | *You will identified as a `Other Talents`.* |
+ |  🤹‍♂️〢𒆜 Multi Talented   | *You will identified as a `Multi Talented`.* |
+ 
+ 
 <h3>Level Roles</h3>
 
 | Roles          |  Level        | Perks Unlocked                                                             |
