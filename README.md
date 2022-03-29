@@ -24,7 +24,7 @@
  |  👫 〢𒆜 Verified Members | *Given to all members who verify themselves at #𒋨・verification .* |
 
     
-<h3>Special Roles(Game Roles & Sports Roles)</h3>
+<h3>Special Roles(Video Game Roles & Sports Roles)</h3>
 
 | Name              | Description                                                                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,6 +39,10 @@
 | 👾〢𒆜 AMONG US| *Players Of **Among Us**.*                                                                                                                            |
 | 👽〢𒆜 FALL GUYS | *Players Of **Fall Guys**.*                                                                                                                                    |
 |  |   
+
+<h3>Ping Roles & Other Roles</h3>
+
+
 
 <h3>Level Roles</h3>
 
