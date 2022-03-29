@@ -34,16 +34,16 @@
 
 | Name              | Description                                                                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| @💣〢𒆜 PUBGM / BGMI | *Players of **Pubg Mobile**.*                                                                                                                                                                |
-| @💣〢𒆜 PUBG MOBILE LITE | *Players of **Pubg Mobile Lite**.*                                                                                                                                             |
-| @🔫〢𒆜 CALL OF DUTY MOBILE | *Players of **Call Of Duty Mobile**.*                                                                                     |
-| @🚴‍♀️〢𒆜 GTAV| *Players of **GTA V**.*                                                                                                               |
-| @🪓〢𒆜 MINECRAFT | *Players Of **Minecraft**.*                                                                                                                                                           |
-| @🤺〢𒆜 CLASH OF CLANS| *Players Of **Clash of Clans**.*                                                                                                                                                       |
-| @🧦〢𒆜 FIFA| *Players of **FIFA Mobile**.*                                                                                                                      |
-| @🤼‍♂️〢𒆜 FREE FIRE| *Players of **Free Fire**.*                                                                                                                         |
-| @👾〢𒆜 AMONG US| *Players Of **Among Us**.*                                                                                                                            |
-| @👽〢𒆜 FALL GUYS | *Players Of **Fall Guys**.*                                                                                                                                    |
+| 💣〢𒆜 PUBGM / BGMI | *Players of **Pubg Mobile**.*                                                                                                                                                                |
+| 💣〢𒆜 PUBG MOBILE LITE | *Players of **Pubg Mobile Lite**.*                                                                                                                                             |
+| 🔫〢𒆜 CALL OF DUTY MOBILE | *Players of **Call Of Duty Mobile**.*                                                                                     |
+| 🚴‍♀️〢𒆜 GTAV| *Players of **GTA V**.*                                                                                                               |
+| 🪓〢𒆜 MINECRAFT | *Players Of **Minecraft**.*                                                                                                                                                           |
+| 🤺〢𒆜 CLASH OF CLANS| *Players Of **Clash of Clans**.*                                                                                                                                                       |
+| 🧦〢𒆜 FIFA| *Players of **FIFA Mobile**.*                                                                                                                      |
+| 🤼‍♂️〢𒆜 FREE FIRE| *Players of **Free Fire**.*                                                                                                                         |
+| 👾〢𒆜 AMONG US| *Players Of **Among Us**.*                                                                                                                            |
+| 👽〢𒆜 FALL GUYS | *Players Of **Fall Guys**.*                                                                                                                                    |
 | 🔫〢𒆜 CODM CLAN MEMBERS            | CODM CLAN's OFFICIAL MEMBERS.    |                                                                                                                                 
 <h3>Level Roles</h3>
 
