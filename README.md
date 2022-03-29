@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/IY2Ee78.jpg" width="450px" height="180px" style="max-width:100%;">
+    <img src="https://i.imgur.com/pMBpUOs.jpg" width="450px" height="180px" style="max-width:100%;">
     <h1>Discord Roles - Team LifeKing</h1>
 </div>
 
