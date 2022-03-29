@@ -24,7 +24,7 @@
  |  👫 〢𒆜 Verified Members | *Given to all members who verify themselves at #𒋨・verification .* |
 
     
-<h3>Special Roles</h3>
+<h3>Special Roles(Game Roles & Sports Roles)</h3>
 
 | Name              | Description                                                                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +38,8 @@
 | 🤼‍♂️〢𒆜 FREE FIRE| *Players of **Free Fire**.*                                                                                                                         |
 | 👾〢𒆜 AMONG US| *Players Of **Among Us**.*                                                                                                                            |
 | 👽〢𒆜 FALL GUYS | *Players Of **Fall Guys**.*                                                                                                                                    |
-| 🔫〢𒆜 CODM CLAN MEMBERS            | CODM CLAN's OFFICIAL MEMBERS.    |                                                                                                                                 
+|  |   
+
 <h3>Level Roles</h3>
 
 | Roles          |  Level        | Perks Unlocked                                                             |
