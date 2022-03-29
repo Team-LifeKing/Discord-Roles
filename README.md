@@ -3,10 +3,9 @@
     <h1>Discord Roles - Team LifeKing</h1>
 </div>
 
-<h3>Staff Roles</h3>
+<h3>__***`Main Roles`***__<h3>
 
-__***`Main Roles`***__ :
-
+    
 | Name                                            | Description                                                                                                      |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | @🤴 〢𒆜 King                                   |     *Owner of this server @LifeKing Gamerz YT#9770 .*                                                            |
