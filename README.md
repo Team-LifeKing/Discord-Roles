@@ -38,7 +38,16 @@
 | 🤼‍♂️〢𒆜 FREE FIRE| *Players of **Free Fire**.*                                                                                                                         |
 | 👾〢𒆜 AMONG US| *Players Of **Among Us**.*                                                                                                                            |
 | 👽〢𒆜 FALL GUYS | *Players Of **Fall Guys**.*                                                                                                                                    |
-|  |   
+ | @🏏〢𒆜 Cricket  | *Players of **Cricket**.* |
+ | @⚽〢𒆜 Football  | *Players of **Football**.* |
+ | @⚾〢𒆜 Baseball  | *Players of **Baseball**.* |
+ | @🏀〢𒆜 Basket Ball | *Players of **Basket ball**.* |
+ | @🏉〢𒆜 Rugby  | *Players Of **Rugby**.* |
+ | @🎾〢𒆜 Tennis | *Players Of **Tennis**.* |
+ | @🏓〢𒆜 Table Tennis  | *Players of **Table Tennis**.* |
+ | @🏸〢𒆜 Badminton  | *Players of **Badminton**.* |
+ | @♟〢𒆜 Chess  | *Players Of **Chess**.*  |
+ | @🏑〢𒆜 Hockey  | *Players Of **Hockey**.* |   
 
 <h3>Ping Roles & Other Roles</h3>
 
