@@ -3,7 +3,7 @@
     <h1>Discord Roles - Team LifeKing</h1>
 </div>
 
-<h3>__***`Main Roles`***__<h3>
+<h3>Main Roles<h3>
 
     
 | Name                                            | Description                                                                                                      |
