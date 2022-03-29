@@ -77,7 +77,7 @@
  
 <h3>Level Roles</h3>
 
-| Roles          |  Level        |  |Perks Unlocked                                                             |
+| Roles          |  Level        |Perks Unlocked                                                             |
 |----------------|---------------|----------------------------------------------------------------------------|
  |  👮‍♂️〢𒆜 Colonel(Level 50+)  | *Given to you when you cross **`level 50`**.* | *Ability to [send links](https://support.discord.com/hc/en-us/articles/360021235192-Sending-GIFs-on-Discord) in all public channels.* |
  |  💂‍♂️〢𒆜 Master Commander(Level 40+)  | *Given to you when you are in **`level 40-49`**.* | *Ability to [attach files](https://support.discord.com/hc/en-us/articles/211866427-How-do-I-upload-images-and-GIFs) in all public channels.* |
