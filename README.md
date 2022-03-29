@@ -32,16 +32,16 @@
 
 | Name              | Description                                                                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🎬 〢𒆜 Content Creator   | Creators with 100k+ subscribers/followers.                                                                                                                                                                      |
-| 🤵 〢𒆜 Honourable Guest  | Recognized members of the community or special guests of the server.                                                                                                                                             |
-| 💎 〢𒆜 Nitro Boosters     | The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).                                                                                     |
-| 🤝 〢𒆜 Contributors       | Ones who sponsor the server financially under certain circumstances(terms & conditions applied).                                                                                                                |
-| 💣〢𒆜 BGMI CLAN LEADER         | BGMI CLAN's OFFICIAL LEADER.                                                                                                                                                            |
-| 💣〢𒆜 BGMI CLAN CO-LEADER         | BGMI CLAN's OFFICIAL CO-LEADER.                                                                                                                                                        |
-| 💣〢𒆜 BGMI CLAN ELITE            | BGMI CLAN's OFFICIAL ELITE.                                                                                                                                    |
-| 💣〢𒆜 BGMI CLAN MEMBERS          | BGMI CLAN's OFFICIAL MEMBERS.                                                                                                                                    |
-| 🔫〢𒆜 CODM CLAN MASTER            | CODM CLAN's OFFICIAL MASTER.                                                                                                                                 |
-| 🔫〢𒆜 CODM CLAN VICE-MASTER            | CODM CLAN's OFFICIAL VICE-MASTER.                                                                                                                                    |
+| @💣〢𒆜 PUBGM / BGMI | *Players of **Pubg Mobile**.*                                                                                                                                                                |
+| @💣〢𒆜 PUBG MOBILE LITE | *Players of **Pubg Mobile Lite**.*                                                                                                                                             |
+| @🔫〢𒆜 CALL OF DUTY MOBILE | *Players of **Call Of Duty Mobile**.*                                                                                     |
+| @🚴‍♀️〢𒆜 GTAV| *Players of **GTA V**.*                                                                                                               |
+| @🪓〢𒆜 MINECRAFT | *Players Of **Minecraft**.*                                                                                                                                                           |
+| @🤺〢𒆜 CLASH OF CLANS| *Players Of **Clash of Clans**.*                                                                                                                                                       |
+| @🧦〢𒆜 FIFA| *Players of **FIFA Mobile**.*                                                                                                                      |
+| @🤼‍♂️〢𒆜 FREE FIRE| *Players of **Free Fire**.*                                                                                                                         |
+| @👾〢𒆜 AMONG US| *Players Of **Among Us**.*                                                                                                                            |
+| @👽〢𒆜 FALL GUYS | *Players Of **Fall Guys**.*                                                                                                                                    |
 | 🔫〢𒆜 CODM CLAN MEMBERS            | CODM CLAN's OFFICIAL MEMBERS.    |                                                                                                                                 
 <h3>Level Roles</h3>
 
