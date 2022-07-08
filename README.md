@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/pMBpUOs.jpg" width="450px" height="180px" style="max-width:100%;">
+    <img src="https://i.imgur.com/VDdSRDa.jpg" width="450px" height="180px" style="max-width:100%;">
     <h1>Discord Roles - Team LifeKing</h1>
 </div>
 
@@ -9,7 +9,9 @@
 |--------------------------|------------------------------------------------------------------------------------------------------------------|
  |  🤴 〢𒆜 King  | *Owner of this server @LifeKing Gamerz YT#9770 .* |
  |  👸 〢𒆜 Queen | *Co-Owner of this server.* |
+ |  🤗 〢𒆜 Help And Support  | *All Moderator Bots.* |
  |  🤖 〢𒆜 OFFICIAL BOTS  | *All Official Bots.* |
+ |  🤖 〢𒆜 FUN BOTS  | *All Fun Bots.* |
  |  🤖🤝 〢𒆜 PARTNER BOTS  | *All Partners Bots.* |
  |  🤖🎮 〢𒆜 GAME BOTS  | *All Games Bots.* |
  |  🤖🎶 〢𒆜 Music Bots | *All Music Bots.* |
