@@ -14,14 +14,14 @@
  |  🤖🎮 〢𒆜 GAME BOTS  | *All Games Bots.* |
  |  🤖🎶 〢𒆜 Music Bots | *All Music Bots.* |
  |  🕵️‍♂️〢𒆜 Management | *Members who manage this server.* |
- |  👨‍💻 〢𒆜 Moderators |  *Main mods of the server. Always available in #𒋨・mod-support🔩 for help.* |
+ |  👨‍💻 〢𒆜 Moderators |  *Main mods of the server. Always available in #✠│mod-support for help.* |
  |  👲 〢𒆜 Staffs | *The Server runs so good just because of them. They are none other than our loyal staffs.* |
  |  🤝 〢𒆜 Partners  | *All helpers for our server.* |
  |  🤵 〢𒆜 VIP Members | *All members of well known teams and international e Sports players are liable to this role.* |
  |  💎 〢𒆜 Nitro Boosters | *Nitro subscribers [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting) the Discord server. This role grants a colored username separately in the online list and the ability to stream video, change nickname, react to messages, use external emojis, attach files, send links, and use [priority speaker](https://support.discord.com/hc/en-us/articles/360011876531-Setting-up-Priority-Speaker).* |
  |  👨‍🚀〢𒆜 Streaming Mods | *All Streaming Mods of YouTube ,Twitch, Facebook Gaming Channel.* |
  |  🎓〢𒆜 Youtube Members | *All Members of YouTube Channel.* |
- |  👫 〢𒆜 Verified Members | *Given to all members who verify themselves at #𒋨・verification .* |
+ |  <@&782474136215748628> | *Given to all members who verify themselves at #𒋨・verification .* |
 
     
 <h3>Special Roles(Video Game Roles & Sports Roles)</h3>
