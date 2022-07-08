@@ -21,10 +21,10 @@
  |  💎 〢𒆜 Nitro Boosters | *Nitro subscribers [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting) the Discord server. This role grants a colored username separately in the online list and the ability to stream video, change nickname, react to messages, use external emojis, attach files, send links, and use [priority speaker](https://support.discord.com/hc/en-us/articles/360011876531-Setting-up-Priority-Speaker).* |
  |  👨‍🚀〢𒆜 Streaming Mods | *All Streaming Mods of YouTube ,Twitch, Facebook Gaming Channel.* |
  |  🎓〢𒆜 Youtube Members | *All Members of YouTube Channel.* |
- |  <@&782474136215748628> | *Given to all members who verify themselves at #𒋨・verification .* |
+ |  👫 〢𒆜 Verified Members | *Given to all members who verify themselves at #✠│verification .* |
 
     
-<h3>Special Roles(Video Game Roles & Sports Roles)</h3>
+<h3>Special Roles(Video Game Roles)</h3>
 
 | Name              | Description                                                                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,41 +38,27 @@
 | 🤼‍♂️〢𒆜 FREE FIRE| *Players of **Free Fire**.*                                                                                                                         |
 | 👾〢𒆜 AMONG US| *Players Of **Among Us**.*                                                                                                                            |
 | 👽〢𒆜 FALL GUYS | *Players Of **Fall Guys**.*                                                                                                                                    |
- | 🏏〢𒆜 Cricket  | *Players of **Cricket**.* |
- | ⚽〢𒆜 Football  | *Players of **Football**.* |
- | ⚾〢𒆜 Baseball  | *Players of **Baseball**.* |
- | 🏀〢𒆜 Basket Ball | *Players of **Basket ball**.* |
- | 🏉〢𒆜 Rugby  | *Players Of **Rugby**.* |
- | 🎾〢𒆜 Tennis | *Players Of **Tennis**.* |
- | 🏓〢𒆜 Table Tennis  | *Players of **Table Tennis**.* |
- | 🏸〢𒆜 Badminton  | *Players of **Badminton**.* |
- | ♟〢𒆜 Chess  | *Players Of **Chess**.*  |
- | 🏑〢𒆜 Hockey  | *Players Of **Hockey**.* |   
 
 <h3>Ping Roles & Other Roles</h3>
 
 | Name                     | Description                                                     |
 |--------------------------|------------------------------------------------------------------|
- |  📢 〢𒆜 Announcement Ping  |  *You will be mention for all server announcement #𒋨・announcement .* |
- |  🎥 〢𒆜 YT Content Ping  | *You will be mention for youtube content #𒋨・content-upload and #𒋨・content-upload.* |
- |  🦜 〢𒆜 Tweet Ping   | *You will be mention for all tweets #𒋨・tweets  .* |
- |  📺〢𒆜 Twitch Ping  | *You will be mention for all twitch live streaming #𒋨・twitch-live  .* |
- |  💻〢𒆜 Omlet Arcade Ping  | *You will be mention for all omlet arcade live streaming #𒋨・omlet-live  .* |
- |  🔧〢𒆜 Mod/Staff Requirement Ping  | *You will be mention for all server mod  or staff requirements #𒋨・mod-requirements  .* |
- |  🎭〢𒆜 Facebook Gaming Ping  | *You will be mention for all facebook gaming live streaming #𒋨・facebook-live  .* |
- |  🎉 〢𒆜 Giveaway Ping   | *You will be mention for all Giveaways  #𒋨・🎉giveaways¹  & #𒋨・🎉giveaways²   .* |
- |  🎊 〢𒆜 Events Ping   | *You will be mention for all Events  #𒋨・🎊events¹ , #𒋨・🎊events² & #𒋨・🎊events³    .* |
+ |  📢 〢𒆜 Announcement Ping  |  *You will be mention for all server announcement #✠│from-owner , #✠│from-mods .* |
+ |  🎥 〢𒆜 YT Content Ping  | *You will be mention for youtube content #✠│yt-content-upload and #✠│youtube-live.* |
+ |  🦜 〢𒆜 Tweet Ping   | *You will be mention for all tweets #✠│twitter-posts  .* |
+ |  📺〢𒆜 Twitch Ping  | *You will be mention for all twitch live streaming #✠│twitch-live  .* |
+ |  📸〢𒆜 Instagram Ping  | *You will be mention for all instagram posts #✠│insta-posts  .* |
+ |  🔧〢𒆜 Mod/Staff Requirement Ping  | *You will be mention for all server mod  or staff requirements #✠│mod-requirements  .* |
+ |  🎭〢𒆜 Facebook Gaming Ping  | *You will be mention for all facebook gaming live streaming #✠│facebook-live  .* |
+ |  🎉 〢𒆜 Giveaway Ping   | *You will be mention for all Giveaways  #✠│giveaways¹  & #✠│giveaways²  .* |
+ |  🎊 〢𒆜 Events Ping   | *You will be mention for all Events  #✠│events¹ , #✠│events² & #✠│events³    .* |
  |  👦〢𒆜 BOY   | *You will identified as a `BOY`.* |
  |  👧〢𒆜 GIRL    | *You will identified as a `GIRL`.* |
  |  🧒〢𒆜 MATURE(18+)   | *You will identified as a `MATURE or ABOVE 18`.* |
  |  👶〢𒆜 UNMATURE(BELOW18)   | *You will identified as a `UNMATURE or BELOW 18`.* |
  |  📱〢𒆜 MOBILE GAMER    | *You will identified as a `MOBILE GAMER`.* |
  |  💻〢𒆜 PC GAMER    | *You will identified as a `PC GAMER`.* | 
- |  🎤〢𒆜 Singer  | *You will identified as a `Singer`.* |
- |  🖼〢𒆜 Painter   | *You will identified as a `Painter`.* | 
- |  📚〢𒆜 StoryTeller   | *You will identified as a `StoryTeller`.* |
- |  🎨〢𒆜 Other Talents   | *You will identified as a `Other Talents`.* |
- |  🤹‍♂️〢𒆜 Multi Talented   | *You will identified as a `Multi Talented`.* |
+
  
  
 <h3>Level Roles</h3>
