@@ -73,4 +73,4 @@
  |  🥇〢𒆜 Ranger(Level 1+)   | *Given to you when you are in **`level 1-9`**.* | *Verified role. No special permissions.* |
  
  
-> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all time is not considered in this, only WR ツ AMARI(AmariBot#5150) Leaderboard is considered.)
+> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! 
